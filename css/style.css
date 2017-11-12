@@ -16,16 +16,19 @@ body {
 	max-width: 850px; 
  	margin: 0 auto;
 }
+/* 
 .hednehog {
 	float: left;
 	width: 211px;	
 	height: 371px;
 	margin: 1% 2% 0 0;
 	}
+ */
 .img_captions {
 	font-size: 0.8em;
 }
 .hednehog_img {
+float: left;
 	border: 4px solid rgb(0, 174, 242);
 }
 .text {
@@ -45,6 +48,9 @@ body {
 }
 .empty {
 	clear: both;
+}
+.mimoza_img {
+	border: 4px solid rgb(0, 174, 242);
 }
 .attention_text {
 	font-size: 1em;
@@ -102,12 +108,15 @@ body {
 margin: 0;
 max-width: 100%;
 }
+
 /* 
 .hednehog {
 width: 100%;
 }
-.hednehog img {
-width: 100%;
  */
+/* 
+.hednehog_img {
+width: 100%;
 }
+ */
 }
